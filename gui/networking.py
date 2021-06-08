@@ -5,7 +5,7 @@ from typing import List
 from pygame.constants import USEREVENT
 import pygame.event
 
-HOST = '83.4.53.166'
+HOST = '83.4.3.243'
 PORT = 5000
 
 class ThreadEvent:
